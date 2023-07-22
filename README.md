@@ -6,7 +6,7 @@ A data analyst trainee and a data scientist in the making, currently a fellow @A
 
 I have a passion for data analysis and machine learning and how it can be used to make a positive impact in our lives.
 
-*   🌍  I'm based in I'm based in Abuja, Nigeria
+*   🌍  I'm based in Abuja, Nigeria
 *   ✉️  You can contact me at [waziriphareeyda@gmail.com](mailto:waziriphareeyda@gmail.com)
 *   🧠  I'm learning Reinforcement Learning and Time Series Forecasting.
 *   🤝  I'm open to collaborating on Data science, Machine Learning and Data Analysis
