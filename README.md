@@ -1,8 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faridah Yusuf=====================================================================================================================================A data analyst trainee and a data scientist in the making, currently a fellow @Arewa Data Science Academy---------------------------------------------------------------------------------------------------------I have a passion for data analysis and machine learning and how it can be used to make a positive impact in our lives.* 🌍  I'm based in I'm based in Abuja, Nigeria* ✉️  You can contact me at [waziriphareeyda@gmail.com](mailto:waziriphareeyda@gmail.com)* 🧠  I'm learning Reinforcement Learning and Time Series Forecasting.* 🤝  I'm open to collaborating on Data science, Machine Learning and Data Analysis
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faridah Yusuf
+=====================================================================================================================================
 
-<a href="https://www.github.com/Fareeyda" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Fareeyda?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/waziri eemkay" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitter/follow/waziri eemkay?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+A data analyst trainee and a data scientist in the making, currently a fellow @Arewa Data Science Academy
+---------------------------------------------------------------------------------------------------------
 
+I have a passion for data analysis and machine learning and how it can be used to make a positive impact in our lives.
+
+*   🌍  I'm based in I'm based in Abuja, Nigeria
+*   ✉️  You can contact me at [waziriphareeyda@gmail.com](mailto:waziriphareeyda@gmail.com)
+*   🧠  I'm learning Reinforcement Learning and Time Series Forecasting.
+*   🤝  I'm open to collaborating on Data science, Machine Learning and Data Analysis
+*   <a href="https://www.github.com/Fareeyda" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/Fareeyda?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+ 
 ### Skills
 
 
