@@ -39,3 +39,7 @@ I have a passion for data analysis and machine learning and how it can be used t
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Fareeyda/30-Days-of-python-challenge-ADS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fareeyda&repo=30-Days-of-python-challenge-ADS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Fareeyda/Machine-Learning-Assignment-Arewa-Data-Science" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fareeyda&repo=Machine-Learning-Assignment-Arewa-Data-Science&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/Faridah Yusuf"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
